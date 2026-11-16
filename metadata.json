@@ -1,0 +1,6 @@
+{
+  "name": "Apex Ledger",
+  "description": "Dual-portal investment platform with Investor Portfolio, Admin Treasury Queue, Firestore ledger, and Google Maps global asset & branch explorer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
